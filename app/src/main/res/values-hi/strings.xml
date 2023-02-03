@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">स्क्लाइट मल्टीटेबल</string>
+    <string name="Name">नाम</string>
+    <string name="Date_of_Birth">जन्म की तारीख</string>
+
+    <string name="Designation">पद</string>
+    <string name="Qualification">योग्यता</string>
+    <string name="Mobile_No">मोबाइल नंबर।</string>
+    <string name="Cancel">रद्द करना</string>
+    <string name="save">बचाना</string>
+    <string name="Email_Add">ईमेल</string>
+    <string name="listing_view">लिस्टिंग दृश्य</string>
+    <string name="basic_information">मूलभूत जानकारी</string>
+    <string name="DateofBirth">जन्म की तारीख</string>
+    <string name="Gender">लिंग</string>
+    <string name="Country">देश</string>
+    <string name="State">राज्य</string>
+    <string name="City">शहर</string>
+    <string name="Email">ईमेल</string>
+    <string name="Isrelocate">स्थानान्तरित है</string>
+    <string name="MobileNo">मोबाइल नहीं है।</string>
+    <string name="expectedSalary">अपेक्षित वेतन</string>
+    <string name="ExpactedSalary">अपेक्षित वेतन</string>
+    <string name="CompaneyPSalary">कंपनी वेतन प्रदान करें\'</string>
+    <string name="btnAddSalary">वेतन जोड़ें</string>
+    <string name="English">अंग्रेज़ी</string>
+    <string name="dark">डार्क मोड</string>
+    <string name="light">लाइट मोड</string>
+    <string name="NextScreen"><![CDATA[अगली स्क्रीन ->]]></string>
+    <string name="hindi">हिंदी</string>
+    <string name="Gujarati">गुजराती</string>
+    <string name="Urdu">उर्दू</string>
+    <string name="Turkis">तुर्की</string>
+    <string name="Arbic">अरबी</string>
+    <string name="chinise">चीनी</string>
+    <string name="isrelocate">स्थानान्तरित है</string>
+
+
+</resources>

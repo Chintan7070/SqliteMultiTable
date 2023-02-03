@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">SqliteMultiTable</string>
+    <string name="Name">Name</string>
+    <string name="Date_of_Birth">Date Of Birth</string>
+
+    <string name="Designation">Designation</string>
+    <string name="Qualification">Qualification</string>
+    <string name="Mobile_No">Mobile No.</string>
+    <string name="Cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="Email_Add">Email</string>
+    <string name="listing_view">Listing View</string>
+    <string name="basic_information">Basic Information</string>
+    <string name="DateofBirth">Date of Birth</string>
+    <string name="Gender">Gender</string>
+    <string name="Country">Country</string>
+    <string name="State">State</string>
+    <string name="City">City</string>
+    <string name="Email">Email</string>
+    <string name="Isrelocate">Is relocate</string>
+    <string name="MobileNo">Mobile No.</string>
+    <string name="expectedSalary">Expected Salary</string>
+    <string name="ExpactedSalary">Expacted Salary</string>
+    <string name="CompaneyPSalary">Companey Provide Salary\'</string>
+    <string name="btnAddSalary">Add Salary</string>
+    <string name="English">English</string>
+    <string name="dark">Dark Mode</string>
+    <string name="light">Light Mode</string>
+    <string name="NextScreen"><![CDATA[Next Screen ->]]></string>
+    <string name="hindi">Hindi</string>
+    <string name="Gujarati">Gujarati</string>
+    <string name="Urdu">Urdu</string>
+    <string name="Turkis">Turkis</string>
+    <string name="Arbic">Arbic</string>
+    <string name="chinise">Chinise</string>
+    <string name="isrelocate">" is Relocate"</string>
+
+    <string-array name="countries_array">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Bouvet Island</item>
+        <item>Brazil</item>
+        <item>British Indian Ocean Territory</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Christmas Island</item>
+        <item>Cocos (Keeling) Islands</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo</item>
+        <item>Cook Islands</item>
+        <item>Costa Rica</item>
+        <item>Cote d\'Ivoire</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Democratic Republic of the Congo</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>East Timor</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Faeroe Islands</item>
+        <item>Falkland Islands</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>Former Yugoslav Republic of Macedonia</item>
+        <item>France</item>
+        <item>French Guiana</item>
+        <item>French Polynesia</item>
+        <item>French Southern Territories</item>
+        <item>Gabon</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+    </string-array>
+
+    <string-array name="india_states">
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Pondicherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttaranchal</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array>
+
+
+    <string-array name="cityName">
+        <item>Surat</item>
+        <item>ahamdabad</item>
+        <item>bhavnagar</item>
+        <item>junagadh</item>
+        <item>vapi</item>
+        <item>valsad</item>
+        <item>kim</item>
+    </string-array>
+
+</resources>

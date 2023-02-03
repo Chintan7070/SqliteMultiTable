@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\layout_activity_add_salary.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\layout\\activity_add_salary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\layout_activity_read_data.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\layout\\activity_read_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\drawable_delete_bg.png.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\drawable\\delete_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.sqlitemultitable.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.sqlitemultitable.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\drawable_btn_save_bg.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\drawable\\btn_save_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\drawable_ic_arrow_right.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\drawable\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\drawable_btn_cancel_bg.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\drawable\\btn_cancel_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\drawable_ic_woman.png.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\drawable\\ic_woman.png"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\drawable_ic_add.png.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\drawable\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\drawable_shadow.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\drawable\\shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\layout_activity_select_language.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\layout\\activity_select_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\drawable_ic_man.png.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\drawable\\ic_man.png"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\layout_newcustom_layout.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\layout\\newcustom_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\layout_read_list.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\layout\\read_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\drawable-xxhdpi_ic_calendarr.png.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\drawable-xxhdpi\\ic_calendarr.png"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\layout_view_language_list.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\layout\\view_language_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\layout_activity_edit_record.xml.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\layout\\activity_edit_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Rinkal\\.gradle\\daemon\\7.5\\com.example.sqlitemultitable.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    }
+]

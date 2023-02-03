@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFFFF</color>
+    <color name="purple_200">#919191</color>
+    <color name="purple_500">#494949</color>
+    <color name="purple_700">#BFBFBF</color>
+    <color name="teal_200">#0E2926</color>
+    <color name="teal_700">#354A4A</color>
+    <color name="white">#1E1D1D</color>
+    <style name="Theme.SqliteMultiTable" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">#595959</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

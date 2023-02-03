@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res"/><source path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\build\generated\res\rs\debug"/><source path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res"><file name="border" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\drawable\border.xml" qualifiers="" type="drawable"/><file name="btn_cancel_bg" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\drawable\btn_cancel_bg.xml" qualifiers="" type="drawable"/><file name="btn_save_bg" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\drawable\btn_save_bg.xml" qualifiers="" type="drawable"/><file name="delete_bg" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\drawable\delete_bg.png" qualifiers="" type="drawable"/><file name="ic_add" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\drawable\ic_add.png" qualifiers="" type="drawable"/><file name="ic_arrow_right" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\drawable\ic_arrow_right.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_man" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\drawable\ic_man.png" qualifiers="" type="drawable"/><file name="ic_woman" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\drawable\ic_woman.png" qualifiers="" type="drawable"/><file name="shadow" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\drawable\shadow.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\drawable-v24\ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="ic_calendarr" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\drawable-xxhdpi\ic_calendarr.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_add_salary" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\layout\activity_add_salary.xml" qualifiers="" type="layout"/><file name="activity_edit_record" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\layout\activity_edit_record.xml" qualifiers="" type="layout"/><file name="activity_main" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_read_data" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\layout\activity_read_data.xml" qualifiers="" type="layout"/><file name="activity_select_language" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\layout\activity_select_language.xml" qualifiers="" type="layout"/><file name="newcustom_layout" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\layout\newcustom_layout.xml" qualifiers="" type="layout"/><file name="read_list" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\layout\read_list.xml" qualifiers="" type="layout"/><file name="view_language_list" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\layout\view_language_list.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\mipmap-anydpi-v33\ic_launcher.xml" qualifiers="anydpi-v33" type="mipmap"/><file name="ic_launcher" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\values\colors.xml" qualifiers=""><color name="purple_200">#FFBB86FC</color><color name="purple_500">#FF6200EE</color><color name="purple_700">#FF3700B3</color><color name="teal_200">#FF03DAC5</color><color name="teal_700">#FF018786</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color></file><file path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">SqliteMultiTable</string><string name="Name">Name</string><string name="Date_of_Birth">Date Of Birth</string><string name="Designation">Designation</string><string name="Qualification">Qualification</string><string name="Mobile_No">Mobile No.</string><string name="Cancel">Cancel</string><string name="save">Save</string><string name="Email_Add">Email</string><string name="listing_view">Listing View</string><string name="basic_information">Basic Information</string><string name="DateofBirth">Date of Birth</string><string name="Gender">Gender</string><string name="Country">Country</string><string name="State">State</string><string name="City">City</string><string name="Email">Email</string><string name="Isrelocate">Is relocate</string><string name="MobileNo">Mobile No.</string><string name="expectedSalary">Expected Salary</string><string name="ExpactedSalary">Expacted Salary</string><string name="CompaneyPSalary">Companey Provide Salary\'</string><string name="btnAddSalary">Add Salary</string><string name="English">English</string><string-array name="countries_array">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Bouvet Island</item>
+        <item>Brazil</item>
+        <item>British Indian Ocean Territory</item>
+        <item>British Virgin Islands</item>
+        <item>Brunei</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Christmas Island</item>
+        <item>Cocos (Keeling) Islands</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo</item>
+        <item>Cook Islands</item>
+        <item>Costa Rica</item>
+        <item>Cote d\'Ivoire</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Democratic Republic of the Congo</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>East Timor</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Ethiopia</item>
+        <item>Faeroe Islands</item>
+        <item>Falkland Islands</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>Former Yugoslav Republic of Macedonia</item>
+        <item>France</item>
+        <item>French Guiana</item>
+        <item>French Polynesia</item>
+        <item>French Southern Territories</item>
+        <item>Gabon</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+    </string-array><string-array name="india_states">
+        <item>Andaman and Nicobar Islands</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chandigarh</item>
+        <item>Chhattisgarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Lakshadweep</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Orissa</item>
+        <item>Pondicherry</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttaranchal</item>
+        <item>Uttar Pradesh</item>
+        <item>West Bengal</item>
+    </string-array><string-array name="cityName">
+        <item>Surat</item>
+        <item>ahamdabad</item>
+        <item>bhavnagar</item>
+        <item>junagadh</item>
+        <item>vapi</item>
+        <item>valsad</item>
+        <item>kim</item>
+    </string-array><string name="light">Light Mode</string><string name="dark">Dark Mode</string><string name="NextScreen"><![CDATA[Next Screen ->]]></string><string name="hindi">Hindi</string><string name="Gujarati">Gujarati</string><string name="Turkis">Turkis</string><string name="chinise">Chinise</string><string name="Arbic">Arbic</string><string name="Urdu">Urdu</string><string name="isrelocate">" is Relocate"</string></file><file path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.SqliteMultiTable" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.SqliteMultiTable" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">#595959</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file name="backup_rules" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/><file name="main_menu" path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\menu\main_menu.xml" qualifiers="" type="menu"/><file path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\values-hi\strings.xml" qualifiers="hi"><string name="app_name">स्क्लाइट मल्टीटेबल</string><string name="Name">नाम</string><string name="Date_of_Birth">जन्म की तारीख</string><string name="Designation">पद</string><string name="Qualification">योग्यता</string><string name="Mobile_No">मोबाइल नंबर।</string><string name="Cancel">रद्द करना</string><string name="save">बचाना</string><string name="Email_Add">ईमेल</string><string name="listing_view">लिस्टिंग दृश्य</string><string name="basic_information">मूलभूत जानकारी</string><string name="DateofBirth">जन्म की तारीख</string><string name="Gender">लिंग</string><string name="Country">देश</string><string name="State">राज्य</string><string name="City">शहर</string><string name="Email">ईमेल</string><string name="Isrelocate">स्थानान्तरित है</string><string name="MobileNo">मोबाइल नहीं है।</string><string name="expectedSalary">अपेक्षित वेतन</string><string name="ExpactedSalary">अपेक्षित वेतन</string><string name="CompaneyPSalary">कंपनी वेतन प्रदान करें\'</string><string name="btnAddSalary">वेतन जोड़ें</string><string name="English">अंग्रेज़ी</string><string name="dark">डार्क मोड</string><string name="light">लाइट मोड</string><string name="NextScreen"><![CDATA[अगली स्क्रीन ->]]></string><string name="hindi">हिंदी</string><string name="Gujarati">गुजराती</string><string name="Urdu">उर्दू</string><string name="Turkis">तुर्की</string><string name="Arbic">अरबी</string><string name="chinise">चीनी</string><string name="isrelocate">स्थानान्तरित है</string></file><file path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\main\res\values-night\colors.xml" qualifiers="night-v8"><color name="purple_200">#919191</color><color name="purple_500">#494949</color><color name="purple_700">#BFBFBF</color><color name="teal_200">#0E2926</color><color name="teal_700">#354A4A</color><color name="black">#FFFFFF</color><color name="white">#1E1D1D</color></file></source><source path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\build\generated\res\rs\debug"/><source path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\build\generated\res\resValues\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="E:\chintan\05 Projects\zzzz\SqliteMultiTable\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems/></merger>
